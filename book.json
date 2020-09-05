@@ -1,5 +1,5 @@
 {
-    "title": "MongoDB-Manual-zh",
+    "title": "MongoDB中文手册|官方文档中文版",
     "description": "MongoDB-Manual-zh",
     "author": "hbnking",
     "language": "zh-hans",
@@ -17,16 +17,16 @@
 	"pageview-count",
 	"edit-link",
 	"back-to-top-button",
-	"-lunr", 
-          "-search", 
+	"-lunr",
+          "-search",
           "search-pro",
 	"splitter",
 	"page-toc-button",
 	"auto-scroll-table",
 	"flexible-alerts",
-	"alerts"	
+	"alerts"
 
-			
+
     ],
 
     "pluginsConfig": {
@@ -34,8 +34,8 @@
             "elements": [".gitbook-link"]
         },
         "donate": {
-            "wechat": "https://jinmuinfo.github.io/MongoDB-Manual-zh/img/pay/Wechatpay.jpeg",
-            "alipay": "https://jinmuinfo.github.io/MongoDB-Manual-zh/img/pay/alipay.jpeg",
+            "wechat": "https://docs.jinmu.info/MongoDB-Manual-zh/img/pay/Wechatpay.jpeg",
+            "alipay": "https://docs.jinmu.info/MongoDB-Manual-zh/img/pay/alipay.jpeg",
             "title": "",
             "button": "打赏",
             "alipayText": "支付宝打赏",
@@ -69,7 +69,6 @@
             "minTocSize": 4
            }
 	}
-	    
-	
-}
 
+
+}
